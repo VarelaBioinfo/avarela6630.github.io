@@ -1,40 +1,24 @@
 ---
-title: "Frank Hermosillo"
-image: "frank.jpg"
+title: "Alfredo Varela Vega"
+image: "portrait.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
   - label: Twitter
     url: "https://twitter.com/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/avarela6630"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "avarela@lcg.unam.mx"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+🌱 I’m currently learning: Python, R, Bash and Genomics
+👯 I’m looking to collaborate on anything related to Olfactory Perception in Humans
+☕ Coffee geek and Cowboys fan
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+Undergraduate Program on Genomic Sciences of the **National Autonomous University of Mexico (UNAM)** , Licenciatura en Ciencias Genomicas (LCG)
 
-Ph.D. in Computer Science | September 2009 - May 2014
-
-**The University of California, Berkeley** | Berkeley, CA
-
-B.S. in Computer Science | September 2005 - May 2009
-
-## Experience
-
-**Google Brain** | Principal Investigator | January 2018 - Present
-
-**Netflix** | Research Scientist | June 2014 - December 2017
