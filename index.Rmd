@@ -2,8 +2,6 @@
 title: "Alfredo Varela Vega"
 image: "portrait.jpg"
 links:
-  - label: Twitter
-    url: "https://twitter.com/"
   - label: GitHub
     url: "https://github.com/avarela6630"
   - label: Email
@@ -16,8 +14,7 @@ output:
 
 🌱 I’m currently learning: Python, R, Bash and Genomics
 👯 I’m looking to collaborate on anything related to Olfactory Perception in Humans
-☕ Coffee geek and Cowboys fan
-
+☕ Coffee geek and Cowboys fan 
 ## Education
 
 Undergraduate Program on Genomic Sciences of the **National Autonomous University of Mexico (UNAM)** , Licenciatura en Ciencias Genomicas (LCG)
